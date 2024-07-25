@@ -1,0 +1,70 @@
+body {
+    padding: 16px 0;
+    font-weight: normal;
+    color: rgb(9, 8, 8);
+    background-color: rgb(247, 166, 238);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+header ,
+section h2 {
+    font-family: "Angkor", serif;
+}
+body {
+    font-family: "Voces", sans-serif;
+}
+header h1,
+section h2 {
+    
+        font-weight: normal;
+}
+    
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+
+
+a {
+    color: rgb(9, 9, 9);
+    text-decoration: none;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid purple
+    
+    
+   
+
+}
+
+.center img{
+    align-items: center;
+}
+
+
+.brands-list img{
+height: 80px;
+width: 80px;
+
+}
+.centralizar-texto {
+    display:flex
+
+}
+    .brands-list{
+        display: inline;
+    }
+    .social-links img{
+        height: 24px;
+        width: 24px;
+        display: inline;
+
+    }
