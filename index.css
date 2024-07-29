@@ -35,19 +35,19 @@ a {
     text-decoration: none;
 }
 img{
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     border: 5px solid purple
     
-    
-   
 
 }
-
-.center img{
-    align-items: center;
+.center {
+    text-align: center;
 }
+
+
+
 
 
 .brands-list img{
@@ -63,8 +63,8 @@ width: 80px;
         display: inline;
     }
     .social-links img{
-        height: 24px;
-        width: 24px;
+        height: 100px;
+        width: auto;
         display: inline;
 
     }
